@@ -2,6 +2,9 @@
 
 ## Fullstack Software Developer ⚡️
 
+# 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Raspincel&theme=dark)](https://git.io/streak-stats)
+---
 <!--
 **Raspincel/Raspincel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
